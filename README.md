@@ -1,6 +1,6 @@
 # firstnuxt
 
-> My hunky-dory Nuxt.js project
+> a project to practice nuxt.js and vue.js
 
 ## Build Setup
 

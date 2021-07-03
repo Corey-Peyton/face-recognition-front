@@ -1,7 +1,7 @@
 {
-  "name": "firstnuxt",
+  "name": "nuxt",
   "version": "1.0.0",
-  "description": "My hunky-dory Nuxt.js project",
+  "description": "Nuxt.js project",
   "author": "hamid shams",
   "private": true,
   "scripts": {
